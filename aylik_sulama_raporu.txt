@@ -1,0 +1,221 @@
+
+Tarih: 2025-12-18T00:12:18.066736700
+Kaynak: CSV Sensör Verisi
+Nem: 72.34208423695925
+Sıcaklık: 9.897540235132956
+Sulama: HAYIR
+Neden: Sulama koşulları sağlanmadı
+-----------------------------
+Tarih: 2025-12-18T00:12:49.666933600
+Kaynak: Kullanıcı Verisi
+Nem: 35.0
+Sıcaklık: 67.0
+Sulama: EVET
+Neden: Nem düşük ve sıcaklık uygun
+-----------------------------
+Tarih: 2025-12-18T00:13:05.339330
+Kaynak: Manuel
+Nem: -1.0
+Sıcaklık: -1.0
+Sulama: EVET
+Neden: Kullanıcı manuel başlattı
+-----------------------------
+Tarih: 2025-12-18T00:20:42.207747600
+Kaynak: SENSOR + USER_THRESHOLD
+Nem: 72.34208423695925
+Sıcaklık: 9.897540235132956
+Sulama: HAYIR
+Neden: Toprak nemi yeterli
+-----------------------------
+Tarih: 2025-12-18T00:21:17.065735
+Kaynak: USER_INPUT
+Nem: 65.0
+Sıcaklık: 80.0
+Sulama: HAYIR
+Neden: Toprak nemi yeterli
+-----------------------------
+Tarih: 2025-12-18T00:24:37.454881900
+Kaynak: SENSÖR
+Nem: 72.34208423695925
+Sıcaklık: 9.897540235132956
+Sulama: HAYIR
+Neden: Toprak nemi yeterli
+-----------------------------
+2025-12-18T16:00:37.078875700 : SULAMA DURDURULDU
+2025-12-18T16:00:42.050364900 : SULAMA DURDURULDU
+2025-12-18T16:00:43.064283400 : SULAMA DURDURULDU
+Tarih: 2025-12-18T16:37:31.061006200
+Kaynak: Kullanıcı Girişi
+Nem: 40.0
+Sıcaklık: 30.0
+Sulama: HAYIR
+Neden: Yeterli Nem Seviyesi
+-----------------------------
+Tarih: 2025-12-18T16:37:45.794034300
+Kaynak: Kullanıcı Girişi
+Nem: 40.0
+Sıcaklık: 30.0
+Sulama: HAYIR
+Neden: Yeterli Nem Seviyesi
+-----------------------------
+Tarih: 2025-12-18T16:38:47.256195900
+Kaynak: Kullanıcı Girişi
+Nem: 20.0
+Sıcaklık: 30.0
+Sulama: EVET
+Neden: Düşük Toprak Nemi
+-----------------------------
+Tarih: 2025-12-18T17:11:57.793837600
+Kaynak: Kullanıcı Girişi
+Nem: 25.0
+Sıcaklık: 35.0
+Sulama: EVET
+Neden: Kritik Toprak Nemi
+-----------------------------
+Tarih: 2025-12-18T17:12:13.651093
+Kaynak: Kullanıcı Girişi
+Nem: 50.0
+Sıcaklık: 35.0
+Sulama: HAYIR
+Neden: Koşullar Normal
+-----------------------------
+Tarih: 2025-12-18T17:13:34.024478100
+Kaynak: Kullanıcı Girişi
+Nem: 50.0
+Sıcaklık: 35.0
+Sulama: HAYIR
+Neden: Koşullar Normal
+-----------------------------
+Tarih: 2025-12-18T17:16:56.029053800
+Kaynak: Kullanıcı Girişi
+Nem: 30.0
+Sıcaklık: 30.0
+Sulama: EVET
+Neden: Düşük Nem
+-----------------------------
+Tarih: 2025-12-18T17:17:06.282463900
+Kaynak: Kullanıcı Girişi
+Nem: 40.0
+Sıcaklık: 30.0
+Sulama: HAYIR
+Neden: Koşullar Normal
+-----------------------------
+Tarih: 2025-12-18T17:20:07.780816300
+Kaynak: Kullanıcı Girişi
+Nem: 30.0
+Sıcaklık: 45.0
+Sulama: EVET
+Neden: Kritik Toprak Nemi
+-----------------------------
+Tarih: 2025-12-18T17:20:15.392929800
+Kaynak: Kullanıcı Girişi
+Nem: 39.0
+Sıcaklık: 45.0
+Sulama: EVET
+Neden: Aşırı Sıcaklık Koruması
+-----------------------------
+Tarih: 2025-12-18T17:20:53.611590300
+Kaynak: Kullanıcı Girişi
+Nem: 39.0
+Sıcaklık: 20.0
+Sulama: HAYIR
+Neden: Koşullar Normal
+-----------------------------
+Tarih: 2025-12-18T17:41:11.122670
+Kaynak: Kullanıcı Girişi
+Nem: 34.0
+Sıcaklık: 32.0
+Sulama: EVET
+Neden: Kritik Toprak Nemi
+-----------------------------
+Tarih: 2025-12-18T17:41:17.240103200
+Kaynak: Kullanıcı Girişi
+Nem: 34.0
+Sıcaklık: 45.0
+Sulama: EVET
+Neden: Kritik Toprak Nemi
+-----------------------------
+Tarih: 2025-12-18T17:44:50.832406900
+Kaynak: Kullanıcı Girişi
+Nem: 30.0
+Sıcaklık: 45.0
+Sulama: EVET
+Neden: Kritik Toprak Nemi
+-----------------------------
+Tarih: 2025-12-18T17:44:57.378330600
+Kaynak: Kullanıcı Girişi
+Nem: 40.0
+Sıcaklık: 45.0
+Sulama: EVET
+Neden: Aşırı Sıcaklık Koruması
+-----------------------------
+Tarih: 2025-12-18T17:45:24.609024
+Kaynak: Kullanıcı Girişi
+Nem: 40.0
+Sıcaklık: 30.0
+Sulama: HAYIR
+Neden: Koşullar Normal
+-----------------------------
+Tarih: 2025-12-18T17:50:58.447989100
+Kaynak: Kullanıcı Girişi
+Nem: 80.0
+Sıcaklık: 70.0
+Sulama: EVET
+Neden: Aşırı Sıcaklık Koruması
+-----------------------------
+Tarih: 2025-12-18T20:46:23.418434500
+Kaynak: Kullanıcı Girişi
+Nem: 34.0
+Sıcaklık: 35.0
+Sulama: EVET
+Neden: Düşük Nem
+-----------------------------
+Tarih: 2025-12-18T20:46:50.184937900
+Kaynak: Kullanıcı Girişi
+Nem: 35.0
+Sıcaklık: 50.0
+Sulama: EVET
+Neden: Yüksek Sıcaklık
+-----------------------------
+Tarih: 2025-12-18T20:47:09.451965400
+Kaynak: Kullanıcı Girişi
+Nem: 34.0
+Sıcaklık: 45.0
+Sulama: EVET
+Neden: Aşırı Sıcaklık Koruması
+-----------------------------
+Tarih: 2025-12-18T20:50:18.833628600
+Kaynak: Kullanıcı Girişi
+Nem: 34.0
+Sıcaklık: 45.0
+Sulama: EVET
+Neden: Aşırı Sıcaklık Koruması
+-----------------------------
+Tarih: 2025-12-18T22:01:35.036322400
+Kaynak: Kullanıcı Girişi
+Nem: 25.0
+Sıcaklık: 45.0
+Sulama: EVET
+Neden: Kritik Sıcaklık Koruması Aktif
+-----------------------------
+Tarih: 2025-12-18T22:02:17.243331900
+Kaynak: Kullanıcı Girişi
+Nem: 25.0
+Sıcaklık: 25.0
+Sulama: EVET
+Neden: Toprak Nemi İdeal Seviyenin Altında (İdeal: 35,00%)
+-----------------------------
+Tarih: 2025-12-18T23:54:37.239982800
+Kaynak: Kullanıcı Girişi
+Nem: 34.0
+Sıcaklık: 35.0
+Sulama: EVET
+Neden: Toprak Nemi İdeal Seviyenin Altında (İdeal: 35,00%)
+-----------------------------
+Tarih: 2025-12-19T10:08:38.635356200
+Kaynak: Kullanıcı Girişi
+Nem: 25.0
+Sıcaklık: 32.0
+Sulama: EVET
+Neden: Toprak Nemi İdeal Seviyenin Altında (İdeal: 35,00%)
+-----------------------------
